@@ -6,11 +6,11 @@ import sys
 import time
 
 FPS = 24
-SPIN_SPEED = 0.6
-TILT = 0.30
+SPIN_SPEED = 0.5
+TILT = 0.29
 CAM_DIST = 4.0
 MESSAGE = "for you ♥"
-NUM_HEARTS = 18
+NUM_HEARTS = 19
 
 WHITE = [244, 248, 251, 254, 255, 231]
 PINK = [125, 162, 168, 205, 211, 218, 225]
