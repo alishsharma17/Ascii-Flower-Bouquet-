@@ -13,7 +13,7 @@ Saw it on TikTok? This is the code.
 You just need Python 3. No packages to install.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bouquet3d.git
+git clone https://github.com/alishsharma17/bouquet3d.git
 cd bouquet3d
 python3 bouquet3d.py
 ```
