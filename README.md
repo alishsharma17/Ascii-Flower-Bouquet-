@@ -2,7 +2,6 @@
 
 A spinning 3D flower bouquet that runs right in your terminal. Daisies, tulips, a paper wrap with a ribbon, baby's breath, sparkles, and floating hearts. All drawn with text characters.
 
-Saw it on TikTok? This is the code.
 
 <p align="center">
   <img src="screenshot.png" alt="bouquet3d running in a terminal" width="600">
@@ -48,5 +47,3 @@ You can also swap the color lists (`PINK`, `RED`, `PURPLE`, etc.) to change the 
 Every part of the bouquet is a set of 3D points. Each frame the points get rotated, projected onto the screen with perspective, and shaded based on a light direction. A depth buffer makes sure the closest thing wins each character spot. The flower heads are drawn as flat shapes that always face you so the petals stay readable while it spins.
 
 ---
-
-Follow me on TikTok [@alishsharma](https://www.tiktok.com/@alishsharma) for more terminal stuff.
